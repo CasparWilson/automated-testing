@@ -10,4 +10,6 @@ test("findShortestString returns the earlier string in cases of joint longest st
   expect(findShortestString(["brave", "dance"])).toBe("brave");
   expect(findShortestString(["yo", "mo"])).toBe("yo");
   expect(findShortestString(["fomo", "yoyo"])).toBe("yoyo");
+
+  //test
 });
