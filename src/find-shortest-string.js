@@ -19,4 +19,4 @@ function findShortestString(stringArr) {
 
 module.exports = findShortestString;
 
-  //test
+//test

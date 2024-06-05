@@ -12,4 +12,4 @@ test("findLongestString returns the earlier string in cases of joint longest str
   expect(findLongestString(["fomo", "yoyo"])).toBe("fomo");
 });
 
-  //test
+//test
